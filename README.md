@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Dongsheng Li 👋
 
-<!--
-**leevisin/leevisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leevisin&label=Views&color=blue&style=plastic" alt="leevisin" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 😄 I’m currently studying at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn//).
+- 🌞 Welcome to here and mail to me: lidongsheng@bupt.edu.cn
+<a href="https://github.com/leevisin">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=leevisin&show_icons=true&theme=dark&line_height=27" alt="leevisin's github stats"/>
+</a>
+
+<div align="center">
+
+<!--### Show some ❤️ by starring some of the repositories!-->
+
+</div>
